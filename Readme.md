@@ -1,0 +1,1 @@
+This project uses random forest to predict fraud detection in the insurance sector.
